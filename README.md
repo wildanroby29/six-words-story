@@ -1,8 +1,8 @@
 # Six Words, One Story
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
-[![make.fun](https://img.shields.io/badge/make.fun-six--words-orange)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/wildanroby29/six-words-story/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/wildanroby29/six-words-story/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
 A complete story in exactly six words, for the [Six Words, One Story](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410) bounty on make.fun.
 
